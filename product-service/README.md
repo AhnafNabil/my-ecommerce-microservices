@@ -76,4 +76,4 @@ This service is designed to work with:
 
 - API Gateway: Handles authentication/authorization
 - Inventory Service: Manages product stock levels
-- Order Service: Creates orders that reference products
+- Order Service: Creates orders that reference products# Updated Tue Jul  1 17:30:35 UTC 2025
